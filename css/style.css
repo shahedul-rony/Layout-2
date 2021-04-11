@@ -1,0 +1,56 @@
+*{
+    margin: 0%;
+    padding: 0%
+}
+.header{
+    color:black;
+    text-align: center;
+    background-color: blanchedalmond;
+    height: 100px;
+
+}
+.parent{
+    overflow: hidden;
+
+}
+.LeftSide{
+    background-color: blueviolet;
+    color: cornsilk;
+    height: 300px;
+    float: left;
+    width: 20%;
+    text-align: center;
+
+
+}
+.center{
+    background-color: aquamarine;
+    color: black;
+    height: 300px;
+    width: 50%;
+    text-align: center;
+    float: left;
+}
+.RightSide{
+    background-color:crimson;
+    color: cornsilk;
+    height: 300px;
+    float: right;
+    width: 30%;
+    text-align: center;
+
+}
+.main{
+    background-color: darkcyan;
+    color: honeydew;
+    height: 300px;
+    text-align: center;
+
+}
+.footer{
+    background-color: indigo;
+    color: whitesmoke;
+    text-align: center;
+    height: 100px;
+
+}
